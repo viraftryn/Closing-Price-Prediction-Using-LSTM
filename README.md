@@ -216,14 +216,14 @@ def evaluate_models(model, x_test, y_test):
 #### AMZN Stock Results
 | Model | RMSE | MAE | MAPE |
 |-------|------|-----|------|
-| **Baseline LSTM** | $49.82 | $38.59 | 2.25% |
-| **Optimized LSTM** | $40.98 | $29.99 | 1.76% |
+| **Baseline LSTM** | 49.82 | 38.59 | 2.25% |
+| **Optimized LSTM** | 40.98 | 29.99 | 1.76% |
 
 #### CSCO Stock Results
 | Model | RMSE | MAE | MAPE |
 |-------|------|-----|------|
-| **Baseline LSTM** | $120.77 | $109.23 | 6.34% |
-| **Optimized LSTM** | $111.72 | $87.63 | 5.10% |
+| **Baseline LSTM** | 120.77 | 109.23 | 6.34% |
+| **Optimized LSTM** | 111.72 | 87.63 | 5.10% |
 
 ### Detailed Analysis
 
